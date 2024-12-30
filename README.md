@@ -8,4 +8,4 @@
 💬 Ask me about my experiences across Europe and North Africa.  
 🌱 I’m currently learning ML.  
 😄 Pronouns: He/His/Him.  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/evangelos-vlachodimos) | Email: evlachodimos@gmail.com  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/evangelos-vlachodimos) | Email: evlachod@tepper.cmu.edu 

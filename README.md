@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate on projects and applications of AI in Tech.  
 💬 Ask me about my experiences across Europe and North Africa.  
-🌱 I’m currently learning ML and advancing my Finance skills.  
+🌱 I’m currently learning ML and advancing my Finance skills. 
 😄 Pronouns: He/His/Him.  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/evangelos-vlachodimos) | Email: evlachod@tepper.cmu.edu 

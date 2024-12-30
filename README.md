@@ -1,6 +1,6 @@
-## Hi there, I'm Evangelos 👋
+# Hi there, I'm Evangelos 👋
 
-# 🔭 I’m currently pursuing a Master in Science of Business Analytics - Carnegie Mellon Unoversity.
+### 🔭 I’m currently pursuing a Master in Science of Business Analytics - Carnegie Mellon Unoversity.
 # 🤖 ex-Consultant & Manager @PwC managing Governmental Data.
 < br / >👯 I’m looking to collaborate on projects and applications of AI in Tech.
 💬 Ask me about my experiences across Europe and north Africa
